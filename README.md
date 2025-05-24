@@ -44,7 +44,7 @@ src/
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone <https://github.com/linnmyatmaung/DSA>
    cd DSA
    ```
 2. **Compile and Run Examples:**  
