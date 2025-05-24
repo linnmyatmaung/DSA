@@ -5,7 +5,7 @@
  */
 
 package ADT;
-
+// FIRST-IN FIRST-OUT(FIFO)
 public class Queue {
     public static void main(String[] args) {
         MyQueue queue = new MyQueue(5);
